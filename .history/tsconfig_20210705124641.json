@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",                          
+    "module": "es2015",                   
+    "strict": true,                          
+    "esModuleInterop": true  ,
+    "outDir": "dist",
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "sourceMap": false
+  }
+}
+//   

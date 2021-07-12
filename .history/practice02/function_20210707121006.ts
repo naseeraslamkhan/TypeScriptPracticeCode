@@ -1,0 +1,1 @@
+let salamSahab:(a:string,b:number)=>void;
